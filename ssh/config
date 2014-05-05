@@ -1,0 +1,68 @@
+
+Host 10.117.33.*
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
+
+Host pi*
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
+    
+Host orchestra
+    Hostname orchestra.med.harvard.edu
+    User sr235
+
+Host anima
+    HostName 10.200.0.39
+    User sam
+
+Host titan
+    HostName 192.168.1.3
+    User sam
+
+Host beatrice
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
+    HostName beatrice.med.harvard.edu
+    User pi
+
+Host ccws
+    HostName ccws.med.harvard.edu
+    User ccws
+
+Host hal
+    HostName 192.168.1.2
+    User hal
+    ForwardX11 yes
+    
+Host pi1
+    HostName graylabpi1.med.harvard.edu
+    User pi
+
+Host pi2 
+	HostName graylabpi2.med.harvard.edu 
+	User pi
+
+Host pi3 
+	HostName graylabpi3.med.harvard.edu 
+	User pi
+
+Host pi4 
+	HostName graylabpi4.med.harvard.edu 
+	User pi
+
+Host pi5 
+	HostName graylabpi5.med.harvard.edu 
+	User pi
+
+Host pi6 
+	HostName graylabpi6.med.harvard.edu 
+	User pi
+
+Host pi7
+	HostName graylabpi7.med.harvard.edu 
+	User pi
+
+Host pi8 
+	HostName graylabpi8.med.harvard.edu 
+	User pi
+
