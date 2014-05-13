@@ -108,3 +108,5 @@ fi
 
 # Aliases
 alias runOnConnectedCages='~/code/basics/runOnConnectedCages.sh'
+alias ubase='bash ~/code/basics/uBasic.sh'
+alias gc='git commit -a -m'
