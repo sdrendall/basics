@@ -11,6 +11,10 @@ Host orchestra
     Hostname orchestra.med.harvard.edu
     User sr235
 
+Host digitalOcean
+    HostName 107.170.83.217
+    User root
+
 Host anima
     HostName 10.200.0.39
     User sam
