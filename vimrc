@@ -39,6 +39,4 @@ set scrolloff=8
 set sidescrolloff=15
 set whichwrap+=<,>,[,]
 
-execute pathogen#infect()
-
 let g:jedi#use_splits_not_buffers = "top"
