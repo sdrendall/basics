@@ -108,6 +108,7 @@ fi
 
 # Aliases
 alias runOnConnectedCages='~/code/basics/runOnConnectedCages.sh'
+alias getConnectedCages='~/code/basics/getConnectedCages.sh'
 alias ubase='bash ~/code/basics/uBasic.sh'
 alias gc='git commit -a -m'
 alias gpush='git push origin $(git rev-parse --abbrev-ref HEAD)'
