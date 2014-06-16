@@ -1,3 +1,3 @@
 #!/bin/bash
 
-git clone git@github:${2:-sdrendall}/$1
+git clone git@github.com:${2:-sdrendall}/$1
