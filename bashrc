@@ -107,8 +107,6 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 fi
 
 # Aliases
-alias runOnConnectedCages='~/code/basics/runOnConnectedCages.sh'
-alias getConnectedCages='~/code/basics/getConnectedCages.sh'
 alias ubase='~/code/basics/uBasic.sh'
 alias gc='git commit -a -m'
 alias gpush='git push origin $(git rev-parse --abbrev-ref HEAD)'
